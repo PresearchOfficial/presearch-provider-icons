@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="72" width="72">
+  <defs>
+    <path id="path-0" opacity="1" d="M4,0 L68,0 C70.207660097976,0 72,1.792339902024 72,4 L72,68 C72,70.207660097976 70.207660097976,72 68,72 L4,72 C1.792339902024,72 0,70.207660097976 0,68 L0,4 C0,1.792339902024 1.792339902024,0 4,0Z"/>
+    <path id="path-1" opacity="1" d="M11,10 C11,7.7923399020240005 12.792339902024,6 15,6 L46,6 L61,21 L61,62 C61,64.207660097976 59.207660097976,66 57,66 L15,66 C12.792339902024,66 11,64.207660097976 11,62 L11,10Z"/>
+    <linearGradient id="linearGradient-2" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="1" stop-color="rgb(43,113,233)" stop-opacity="1"/>
+      <stop offset="0" stop-color="rgb(73,137,249)" stop-opacity="1"/>
+    </linearGradient>
+    <path id="path-3" opacity="1" d="M19,25 L19,29 L53,29 L53,25 L19,25ZM19,33 L19,37 L53,37 L53,33 L19,33ZM19,41 L19,45 L53,45 L53,41 L19,41ZM19,49 L19,53 L38,53 L38,49 L19,49Z"/>
+    <path id="path-4" opacity="1" d="M46,6 L61,21 L46,21 L46,6Z"/>
+    <path id="path-5" opacity="1" d="M46,21 L61,36 L61,21 L46,21Z"/>
+  </defs>
+  <g opacity="1">
+    <g opacity="1">
+      <use xlink:href="#path-0" fill="rgb(242,243,244)" fill-opacity="1"/>
+    </g>
+    <g opacity="1">
+      <g opacity="1">
+        <use xlink:href="#path-1" fill="url(#linearGradient-2)" fill-opacity="1"/>
+      </g>
+      <g opacity="1">
+        <use xlink:href="#path-3" fill="rgb(235,242,254)" fill-opacity="1"/>
+      </g>
+      <g opacity="1">
+        <use xlink:href="#path-4" fill="rgb(160,195,255)" fill-opacity="1"/>
+      </g>
+      <g opacity="0.4169776119402985">
+        <use xlink:href="#path-5" fill="rgb(6,49,122)" fill-opacity="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 102 102" enable-background="new 0 0 102 102" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path id="path-0" fill="#F2F3F4" d="M6.6,1h88.9c3.1,0,5.6,2.5,5.6,5.6v88.9c0,3.1-2.5,5.6-5.6,5.6H6.6C3.5,101,1,98.5,1,95.4
+				V6.6C1,3.5,3.5,1,6.6,1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<linearGradient id="path-1_1_" gradientUnits="userSpaceOnUse" x1="-1173.24" y1="1281.9778" x2="-1173.24" y2="1280.5889" gradientTransform="matrix(50 0 0 -60 58713 76928)">
+					<stop  offset="1" style="stop-color:#2B71E9"/>
+					<stop  offset="1" style="stop-color:#4989F9"/>
+				</linearGradient>
+				<path id="path-1" fill="url(#path-1_1_)" d="M16.3,14.9c0-3.1,2.5-5.6,5.6-5.6h43.1l20.8,20.8v56.9c0,3.1-2.5,5.6-5.6,5.6H21.8
+					c-3.1,0-5.6-2.5-5.6-5.6V14.9z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path id="path-3" fill="#EBF2FE" d="M27.4,35.7v5.6h47.2v-5.6H27.4z M27.4,46.8v5.6h47.2v-5.6H27.4z M27.4,57.9v5.6h47.2v-5.6
+					H27.4z M27.4,69.1v5.6h26.4v-5.6H27.4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path id="path-4" fill="#A0C3FF" d="M64.9,9.3l20.8,20.8H64.9V9.3z"/>
+			</g>
+		</g>
+		<g opacity="0.417">
+			<g>
+				<path id="path-5" fill="#06317A" d="M64.9,30.2L85.7,51V30.2H64.9z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
